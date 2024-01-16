@@ -1,4 +1,4 @@
-# BHG-Axie-Buy-Bot
+# Axie-Buy-Bot
 
 
 ## Step 1 Get Detail data from GrahpQL request
